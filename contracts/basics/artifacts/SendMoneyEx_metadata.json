@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/basics/03-SendMoneyExample.sol": "MyFirstContract"
+			"contracts/basics/03-SendMoneyExample.sol": "SendMoneyEx"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"contracts/basics/03-SendMoneyExample.sol": {
-			"keccak256": "0xd35f2c435a4751a7ac8f1c5d27c7f3cc9bec4e8ccc71d16de86f039414bb8bad",
+			"keccak256": "0x83920741f77cdd851f496e14be3c61dbea2bcb6ce5f53c3a25df5f8089b4b205",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c10a73cc58744e9b4a180fe202757159a57688a74c1613f9f6893d646973f4db",
-				"dweb:/ipfs/QmQSoxgHcshEQCa7kFdCkWGY3kLddR5dQME41oFx3CTyei"
+				"bzz-raw://2185ea2c4b6a7d509eca96186075ea9ae1e5ac9f4cdd3011b38031db52d2451c",
+				"dweb:/ipfs/QmaEambMyBThdp83nW9edK9kWbyTvVhxvqwuHJBTVkF8tA"
 			]
 		}
 	},
