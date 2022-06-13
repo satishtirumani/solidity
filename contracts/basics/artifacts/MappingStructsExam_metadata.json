@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/basics/06-MappingStructsExample.sol": "SimpleMappingsExample"
+			"contracts/basics/06-MappingStructsExample.sol": "MappingStructsExam"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/basics/06-MappingStructsExample.sol": {
-			"keccak256": "0x55be794bee4af41d1a770026bdf455f4129040c4d170d49e70179545642cf75c",
+			"keccak256": "0xd1fc3ddcfddcef4047609d2a2aafbf0a98043eba15ea95c89f8bc33d75571c73",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://426a297b6508d748c689e91d6d9ff788775159da968f15d03e20b30dfc287912",
-				"dweb:/ipfs/QmPfpu9NeBLzevF8b24PcwsMJ6wCPKXqhuAoQULztzfuWy"
+				"bzz-raw://6c228f5b533b992602ef5eddf56a0c8f831d85c96122a403959c968670a24377",
+				"dweb:/ipfs/QmVZw4PvLouP3NUPcNd8GoSpSuzM9DhbebuQS7mcHAgquN"
 			]
 		}
 	},
