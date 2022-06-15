@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/basics/03-SendMoneyExample.sol": "MyFirstContract"
+			"contracts/basics/01-MyFirstContract.sol": "MyFirstContract"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -46,7 +46,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/basics/03-SendMoneyExample.sol": {
+		"contracts/basics/01-MyFirstContract.sol": {
 			"keccak256": "0xd35f2c435a4751a7ac8f1c5d27c7f3cc9bec4e8ccc71d16de86f039414bb8bad",
 			"license": "MIT",
 			"urls": [
